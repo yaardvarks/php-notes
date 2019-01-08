@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 class lightSwitch
 {
@@ -14,6 +14,7 @@ class lightSwitch
     /* Will not be inherited when extending classes */
     private function connect()
     {
+        var_dump("Hello");
     }
 }
 

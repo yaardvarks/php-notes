@@ -6,7 +6,7 @@ class Task
 
     public function __construct($desc)
     {
-        $this->description = $desc;
+        $this->description = $desc
     }
 }
 

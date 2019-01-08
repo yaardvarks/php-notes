@@ -51,7 +51,7 @@ class Staff
     }
 }
 
-
+/* This is a test message */
 
 $andrew = new Person('Andrew');
 
